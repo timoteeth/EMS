@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc src/*.c src/sensors/*.c -Iinc `mysql_config --cflags --libs` -o proto -Wall -Wpedantic
