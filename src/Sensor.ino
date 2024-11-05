@@ -1,6 +1,6 @@
 // Team Ecosense
 // Environmental Monitoring System
-// Last updated: 10/24/2024
+// Last updated: 11/5/2024
 // 
 // Sensor Structure
 //
