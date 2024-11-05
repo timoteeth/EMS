@@ -6,7 +6,7 @@
 //
 // this code sets up the struct for a data entry and all associated variables
 struct Entry{
-	char* data;
-	uint8_t size;
-	uint32_t time;
+	char* data;	// raw data read from sensor
+	uint8_t size;	// length of data
+	uint32_t time;	// time data was read
 };
